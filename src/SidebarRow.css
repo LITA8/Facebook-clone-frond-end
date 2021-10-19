@@ -1,0 +1,22 @@
+
+.sidebarRow {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+.btnsidebar{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+.sidebarRow > p {
+    margin-left: 20px;
+    font-weight: 600;
+}
+.sidebarIcon{
+    font-size: xx-large;
+    color: #2C75ff;
+}
+.sidebarIconpro{
+    font-size: large;
+}
